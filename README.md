@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/mehran-dev">
-    <img src="https://komarev.com/ghpvc/?username=mehran-dev&label=بازدید+پروفایل&color=brightgreen&style=flat" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=mehransallamat&label=بازدید+پروفایل&color=brightgreen&style=flat" alt="Profile views" />
   </a>
   <a href="mailto:you@example.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" />
@@ -39,12 +39,12 @@
 ### 📈 آمار گیت‌هاب من
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehran-dev&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehran-dev&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehransallamat&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehransallamat&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehran-dev&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehransallamat&layout=compact&theme=tokyonight" width="50%" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 <p align="center">
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/phpfr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
