@@ -1,64 +1,41 @@
-<!-- README.md -->
-<h1 align="center">سلام، من مهران هستم</h1>
-<h3 align="center">توسعه‌دهنده وب | عاشق طراحی | دنبال خلاقیت</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/mehran-dev">
-    <img src="https://komarev.com/ghpvc/?username=mehransallamat&label=بازدید+پروفایل&color=brightgreen&style=flat" alt="Profile views" />
-  </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" />
-  </a>
-</p>
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=سلام%20من%20مهرانم!&fontSize=35&fontColor=ffffff)
+
+### 👋 سلام! من مهرانم
+
+یک توسعه‌دهنده‌ی خلاق، عاشق طراحی رابط‌های کاربری، بازی‌سازی، پروژه‌های خلاقانه، و ساخت اپلیکیشن‌های وب و موبایل 🎯  
+از ایران، همیشه در حال یادگیری، و دنبال راه‌های جدید برای بهتر کردن تجربه‌ی کاربر.
 
 ---
 
-### ✨ درباره من
+### 🛠️ مهارت‌ها
 
-- 🔭 در حال توسعه اپلیکیشن‌های تحت وب و ابزارهای آنلاین  
-- ⚙️ تخصص در HTML, CSS, JS, React  
-- 🌱 در حال یادگیری TypeScript و Next.js  
-- ☕ عاشق طراحی رابط کاربری  
-- ⚡ عاشق ابزارهای Open Source
-
----
-
-### 🛠️ ابزارهایی که استفاده می‌کنم:
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-</p>
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
 ### 📈 آمار گیت‌هاب من
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehransallamat&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehransallamat&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehransallamat&layout=compact&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehransallamat&show_icons=true&theme=radical" alt="Mehran's Stats" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehransallamat&layout=compact&theme=radical" alt="Mehran's Top Langs" height="170">
 </p>
 
 ---
 
-### 📫 ارتباط با من
+### 📬 ارتباط با من
 
-<p align="center">
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/phpfr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+[![Instagram](https://img.shields.io/badge/@paintcafe_official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paintcafe_official)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
+[![Gmail](https://img.shields.io/badge/mehran.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehran.dev@gmail.com)
 
 ---
 
-<p align="center">
-  ساخته شده با عشق توسط مهران
-</p>
+✨ همیشه در حال ساخت چیزی جالب هستم... منتظر سورپرایزهای بعدی باشید 😄
+</div>
