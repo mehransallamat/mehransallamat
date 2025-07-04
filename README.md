@@ -31,9 +31,9 @@
 
 ### 📬 ارتباط با من
 
-[![Instagram](https://img.shields.io/badge/@paintcafe_official-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/paintcafe_official)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_username)
-[![Gmail](https://img.shields.io/badge/mehran.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehran.dev@gmail.com)
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/phpfr)
+[![Gmail](https://img.shields.io/badge/mehranpwr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehranpwr@gmail.com)
 
 ---
 
